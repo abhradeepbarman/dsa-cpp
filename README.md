@@ -2,7 +2,7 @@
 ## DSA syllabus Tracker
 
 - [ ] Array
-    - [ ] Intro to Array
+    - [x] Intro to Array
     - [ ] Searching & sorting 
     - [ ] Problem Solving (sliding window, 2 ptr, Subarray etc)
 - [ ] string & 2D array
